@@ -30,7 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O move.it-ish é um app que une a técnica de Pomodoro com a realização de exercícios físicos para quem passa muito tempo na frente do computador. O app foi proposto pela rocketseat na Next Level Week 4 na trilha de Reactjs. Você pode acessar o repositório oficial da [Rocktseat](https://github.com/rocketseat-education/nlw-04-reactjs) para ter acesso ao código original do projeto.
+O move.it-ish é um app que une a técnica de Pomodoro com a realização de exercícios físicos para quem passa muito tempo na frente do computador. O app foi proposto pela Rocketseat na Next Level Week 4 na trilha de Reactjs. Você pode acessar o repositório oficial da [Rocktseat](https://github.com/rocketseat-education/nlw-04-reactjs) para ter acesso ao código original do projeto.
 
 ## 🔖 Layout
 
